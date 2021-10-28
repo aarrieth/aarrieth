@@ -1,6 +1,6 @@
 
 # Alfonso Arrieta! 👋
-
+![Logo](https://res.cloudinary.com/aarrieth/image/upload/v1635449218/assets/image_yswemv.png)
 Front End Developer en formación, en busca de construir y definir bases solidas en tecnologías para el desarrollo de software de calidad, empleando buenas practicas y seguiendo el flujo de trabajo, así mismo, lograr la integración entre el flujo y manipulación de datos a través de UIs accesibles.
 Me destaco por ser una persona que comunica de forma clara, asertiva, respetuosa y empatica mis opiniones, manteniendo la integración personal y profesional en mi equipo de trabajo.
 Como seguidor de comunidades tecnologicas y peoyectos Open Source, me gusta compartir el conocimiento y aprender de nuevas experiencias.
